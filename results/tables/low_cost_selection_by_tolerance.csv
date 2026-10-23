@@ -1,0 +1,4 @@
+tolerance,features,cost,auc,saving_pct
+0.01,age;sex;cp;exang;oldpeak,91.3,0.8744273088023089,58.70086397973493
+0.005,sex;cp;trestbps;thalach;oldpeak,193.2,0.8795819053631554,12.606866603338307
+0.02,age;sex;cp;oldpeak,90.3,0.8676446383477634,59.15320939069073

@@ -1,0 +1,11 @@
+variable,description,unit / coding,type,single-test cost (CA$),preprocessing
+age,Age,years,continuous,1.0,median imputation + standardisation
+sex,Sex,"1 = male, 0 = female",binary,1.0,median imputation + standardisation
+cp,Chest pain type,"1 = typical angina, 2 = atypical angina, 3 = non-anginal pain, 4 = asymptomatic",categorical,1.0,most-frequent imputation + one-hot encoding
+trestbps,Resting systolic blood pressure on admission,mm Hg (0 coded as missing in Swiss and VA cohorts),continuous,1.0,median imputation + standardisation
+chol,Serum cholesterol,mg/dl (0 coded as missing in Swiss and VA cohorts),continuous,7.27,median imputation + standardisation
+fbs,Fasting blood sugar > 120 mg/dl,"1 = true, 0 = false",binary,5.2,median imputation + standardisation
+restecg,Resting electrocardiogram,"0 = normal, 1 = ST-T wave abnormality, 2 = probable or definite left ventricular hypertrophy",categorical,15.5,most-frequent imputation + one-hot encoding
+thalach,Maximum heart rate achieved,beats per minute,continuous,102.9,median imputation + standardisation
+exang,Exercise-induced angina,"1 = yes, 0 = no",binary,87.3,median imputation + standardisation
+oldpeak,ST depression induced by exercise relative to rest,mm,continuous,87.3,median imputation + standardisation

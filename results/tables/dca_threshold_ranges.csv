@@ -1,0 +1,19 @@
+cohort,predictions,model,threshold_ranges_better_than_all_and_none
+Hungarian,original,full,1%; 7-96%; 99%
+Hungarian,original,low-cost,1-2%; 4-93%; 97-98%
+Hungarian,original,screening,2-73%; 80%; 86-93%
+Hungarian,recalibrated,full,1%; 6%; 8-93%; 96-99%
+Hungarian,recalibrated,low-cost,1-2%; 4%; 6-93%; 97-99%
+Hungarian,recalibrated,screening,2-90%
+Swiss,original,full,2-3%; 92-98%
+Swiss,original,low-cost,4%; 93-96%
+Swiss,original,screening,94%
+Swiss,recalibrated,full,28%; 35%; 39%; 47%; 56-99%
+Swiss,recalibrated,low-cost,28%; 35%; 39%; 47%; 56-57%; 69-97%
+Swiss,recalibrated,screening,28%; 35%; 39%; 47%; 56-57%; 66-71%; 75-97%; 99%
+VA Long Beach,original,full,8-13%; 23-24%; 26%; 48-89%; 93%; 99%
+VA Long Beach,original,low-cost,9-10%; 17-18%; 56-91%; 95%; 98-99%
+VA Long Beach,original,screening,11-15%; 17-24%; 60-91%; 96%
+VA Long Beach,recalibrated,full,30-37%; 41-89%; 91%; 95-96%
+VA Long Beach,recalibrated,low-cost,28-32%; 34-91%; 93-94%; 96-98%
+VA Long Beach,recalibrated,screening,36-89%

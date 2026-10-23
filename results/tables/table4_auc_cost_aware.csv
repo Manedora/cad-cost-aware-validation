@@ -1,0 +1,4 @@
+model,features,cost,Hungarian,Swiss,VA Long Beach
+full,age;sex;cp;trestbps;chol;fbs;restecg;thalach;exang;oldpeak,221.07,0.878 (0.832-0.921),0.752 (0.593-0.899),0.739 (0.660-0.815)
+low-cost,age;sex;cp;exang;oldpeak,91.3,0.883 (0.837-0.923),0.715 (0.426-0.930),0.757 (0.681-0.830)
+screening,age;sex;cp;trestbps,4.0,0.835 (0.783-0.882),0.766 (0.516-0.936),0.711 (0.620-0.787)

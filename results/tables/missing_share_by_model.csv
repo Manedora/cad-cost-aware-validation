@@ -1,0 +1,10 @@
+cohort,model,pct_with_missing_predictor
+Hungarian,full,11.224489795918368
+Hungarian,low-cost,0.3401360544217687
+Hungarian,screening,0.3401360544217687
+Swiss,full,100.0
+Swiss,low-cost,4.878048780487805
+Swiss,screening,1.6260162601626018
+VA Long Beach,full,51.5
+VA Long Beach,low-cost,28.000000000000004
+VA Long Beach,screening,28.499999999999996
