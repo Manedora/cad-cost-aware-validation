@@ -56,3 +56,6 @@ regression rows = Table 3), `table4_auc_cost_aware`, `table5_paired_cost_aware`,
 * Random seeds of bootstraps and imputations derive from seed 42; small numerical differences from the
   manuscript are possible across scikit-learn/NumPy versions.
 * Figure 1 (study flow) is a schematic and is not produced by the code.
+   ## Authors
+   - Zahra Gandomi (z.gandomi@iau.ir)
+   - Dariush Rastegari
